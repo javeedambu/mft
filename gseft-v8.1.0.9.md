@@ -163,7 +163,7 @@ Default SFTP Cihers
 | SSH_FIPS | False |
 | SSH_KEX | ecdh-sha2-nistp521<br>ecdh-sha2-nistp384<br>ecdh-sha2-nistp256<br>diffie-hellman-group16-sha512<br>diffie-hellman-group14-sha256<br>diffie-hellman-group-exchange-sha256 |
 | SSH_MACs | hmac-sha2-512-etm@openssh.com<br>hmac-sha2-512<br>hmac-sha2-256-etm@openssh.com<br>hmac-sha2-256<br>hmac-sha1-etm@openssh.com<br>hmac-sha1 |
-| TLS_Ciphers | TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:EECDH+RC4:RSA+RC4:!MD5:!SRP:!PSK:!EXP:!RC4:!SSLv3:!SHA1 |
+| TLS_Ciphers | TLS_AES_256_GCM_SHA384<br>TLS_CHACHA20_POLY1305_SHA256<br>TLS_AES_128_GCM_SHA256<br>EECDH+CHACHA20<br>EECDH+AES128<br>RSA+AES128<br>EECDH+AES256<br>RSA+AES256<br>EECDH+3DES<br>RSA+3DES<br>EECDH+RC4<br>RSA+RC4<br>!MD5<br>!SRP<br>!PSK<br>!EXP<br>!RC4<br>!SSLv3<br>!SHA1 |
 | TLS_FIPS | False |
 | TLS_Maximum | TLSv1.3 |
 | TLS_Minimum | TLSv1.2 |
