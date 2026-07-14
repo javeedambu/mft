@@ -147,8 +147,14 @@ Create New User</br>
 <img width="968" height="802" alt="image" src="https://github.com/user-attachments/assets/e3029972-1cb7-4e74-94b3-b790629ebae8" />
 
 <br/><br/>
+Default TLS Ciphers
 <br/><br/>
+<img width="684" height="1229" alt="image" src="https://github.com/user-attachments/assets/d69f6fd3-ee9d-4ca1-bab3-83a7c3191b08" />
+
 <br/><br/>
+Default SFTP Cihers
 <br/><br/>
+<img width="773" height="470" alt="image" src="https://github.com/user-attachments/assets/51ef41a4-03ce-497c-b7fe-f269e1ad63c8" />
+
 <br/><br/>
 <br/><br/>
