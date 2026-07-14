@@ -1,4 +1,4 @@
-Globalscape EFT Upgrade - v8.1.0.9 -> v8.1.0.19
+Globalscape EFT Upgrade - v8.1.0.9 -> v8.1.0.18
 </br></br>
 <img width="623" height="485" alt="image" src="https://github.com/user-attachments/assets/d9bb2c02-3956-4870-a4cf-fc03a0729ba7" />
 </br></br>
