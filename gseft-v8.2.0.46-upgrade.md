@@ -3,6 +3,12 @@ Globalscape EFT Upgrade - v8.1.0.18 -> v8.2.0.46
 Pre-req: Download and install .Net Framework 4.8: </br>
 https://go.microsoft.com/fwlink/?linkid=2088631
 </br></br>
+Following software added during the upgrade</br>
+DisplayName    : Automate Desktop 2024 (x64)</br>
+DisplayVersion : 24.1.0.51</br>
+Publisher      : Fortra, LLC</br>
+
+</br></br>
 <img width="623" height="485" alt="image" src="https://github.com/user-attachments/assets/49fb87c9-5182-4b2a-a16d-65169d6c266c" />
 
 </br></br>
