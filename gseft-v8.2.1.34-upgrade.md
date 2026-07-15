@@ -1,5 +1,17 @@
 Globalscape EFT Upgrade - v8.2.0.46 - v8.2.1.34
 </br></br>
+
+Followinf software were upgraded as well:></br>
+DisplayName    : Automate Desktop 2024 (x64)></br>
+DisplayVersion : 24.2.1.2></br>
+Publisher      : Fortra, LLC></br>
+></br>></br>
+Following software removed></br>
+DisplayName    : Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319></br>
+DisplayVersion : 10.0.30319></br>
+Publisher      : Microsoft Corporation></br>
+></br>
+
 <img width="623" height="485" alt="image" src="https://github.com/user-attachments/assets/d171d26c-0d81-4524-be7f-4408165fa559" />
 
 </br></br>
