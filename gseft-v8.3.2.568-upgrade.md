@@ -1,5 +1,48 @@
 Globalscape EFT Uppgrade: v8.2.1.34 -> v8.3.2.568
 </br></br>
+Following software removed </br>
+DisplayName    : Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532 </br>
+DisplayVersion : 14.36.32532 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532 </br>
+DisplayVersion : 14.36.32532.0 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+Following software upgraded or added </br>
+DisplayName    : Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433 </br>
+DisplayVersion : 14.42.34433 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34433 </br>
+DisplayVersion : 14.42.34433.0 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft OLE DB Driver 19 for SQL Server </br>
+DisplayVersion : 19.3.5.0 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Automate Desktop 2025 (x64) </br>
+DisplayVersion : 25.1.2.97 </br>
+Publisher      : Fortra, LLC </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433 </br>
+DisplayVersion : 14.42.34433 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433 </br>
+DisplayVersion : 14.42.34433.0 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433 </br>
+DisplayVersion : 14.42.34433 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+DisplayName    : Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433 </br>
+DisplayVersion : 14.42.34433 </br>
+Publisher      : Microsoft Corporation </br>
+ </br>
+
 <img width="623" height="485" alt="image" src="https://github.com/user-attachments/assets/e02b0e71-e3bd-4bc1-bc79-abb858618b96" />
 
 </br></br>
